@@ -93,8 +93,8 @@ Link to Microsoft Excel: [Click Here](https://docs.google.com/spreadsheets/d/1Fm
 
 ### Narender Ravulakollu
 ### Data Science Enthusiast
-### Medium [Profile](https://medium.com/@narenderravulakollu)
-### Twitter [Profile](https://twitter.com/NRavulakollu)
-### Linkedin [Profile](https://www.linkedin.com/in/ravulakollunarender/)
+### [Medium Profile](https://medium.com/@narenderravulakollu)
+### [Twitter Profile](https://twitter.com/NRavulakollu)
+### [Linkedin Profile](https://www.linkedin.com/in/ravulakollunarender/)
 
 
